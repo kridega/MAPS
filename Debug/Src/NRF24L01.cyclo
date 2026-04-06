@@ -1,0 +1,6 @@
+../Src/NRF24L01.c:10:6:NRF_WriteReg	1
+../Src/NRF24L01.c:19:6:NRF_ReadReg	1
+../Src/NRF24L01.c:30:6:NRF_init_transmit	1
+../Src/NRF24L01.c:76:6:NRF_init_receive	1
+../Src/NRF24L01.c:122:6:NRF_Transmit	1
+../Src/NRF24L01.c:141:5:NRF_Receive	2

@@ -1,0 +1,7 @@
+../Src/protocol.c:27:6:send_data	32	static
+../Src/protocol.c:44:6:read_32	16	static
+../Src/protocol.c:52:6:handshake	24	static
+../Src/protocol.c:68:13:proto_send_ok	8	static
+../Src/protocol.c:73:13:proto_send_err	16	static
+../Src/protocol.c:84:13:handle_command	120	static
+../Src/protocol.c:173:6:protocol_run	16	static

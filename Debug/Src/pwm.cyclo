@@ -1,0 +1,9 @@
+../Src/pwm.c:13:6:motor_init	1
+../Src/pwm.c:64:6:pwm_write	6
+../Src/pwm.c:74:6:set_dir	2
+../Src/pwm.c:80:6:move_motor	1
+../Src/pwm.c:86:6:movey_forward	1
+../Src/pwm.c:91:6:movey_backward	1
+../Src/pwm.c:96:6:movex_right	1
+../Src/pwm.c:101:6:movex_left	1
+../Src/pwm.c:106:6:stop	1

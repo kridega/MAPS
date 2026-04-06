@@ -1,0 +1,6 @@
+../Src/x_pid.c:49:6:x_pid_init	4	static
+../Src/x_pid.c:58:6:x_pid_set_target	24	static
+../Src/x_pid.c:80:6:x_pid_reset	8	static
+../Src/x_pid.c:93:6:x_pid_update	64	static
+../Src/x_pid.c:155:6:x_get_pid_params	24	static
+../Src/x_pid.c:159:6:x_set_pid_params	24	static

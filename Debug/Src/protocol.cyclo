@@ -1,0 +1,7 @@
+../Src/protocol.c:27:6:send_data	3
+../Src/protocol.c:44:6:read_32	1
+../Src/protocol.c:52:6:handshake	2
+../Src/protocol.c:68:13:proto_send_ok	1
+../Src/protocol.c:73:13:proto_send_err	1
+../Src/protocol.c:84:13:handle_command	16
+../Src/protocol.c:173:6:protocol_run	7

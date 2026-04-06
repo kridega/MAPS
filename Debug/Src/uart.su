@@ -1,0 +1,9 @@
+/home/kridega/stm/f4x/STM32NUCLEOF446RE/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/uart.c:9:6:uart2_print	16	static
+../Src/uart.c:15:6:uart2_rxtx_init	8	static,ignoring_inline_asm
+../Src/uart.c:44:17:compute_uart2_brr	16	static
+../Src/uart.c:48:6:uart2_read	4	static
+../Src/uart.c:54:6:uart2_write	16	static
+../Src/uart.c:62:6:dma1_stream6_init	24	static
+../Src/uart.c:98:6:uart2_write_floatx	16	static
+../Src/uart.c:106:6:uart2_write_floaty	24	static

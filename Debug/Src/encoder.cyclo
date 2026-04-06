@@ -1,0 +1,10 @@
+/home/kridega/stm/f4x/STM32NUCLEOF446RE/chip_headers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+/home/kridega/stm/f4x/STM32NUCLEOF446RE/chip_headers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Src/encoder.c:26:7:get_position_x_mm	1
+../Src/encoder.c:32:7:get_position_y_mm	1
+../Src/encoder.c:39:6:encoder_init	1
+../Src/encoder.c:103:6:get_encoder_data	1
+../Src/encoder.c:110:6:reset_encoders	1
+../Src/encoder.c:118:6:log_encoder_data	1
+../Src/encoder.c:123:6:EXTI0_IRQHandler	3
+../Src/encoder.c:186:6:EXTI15_10_IRQHandler	3
